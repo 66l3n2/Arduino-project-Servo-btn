@@ -15,12 +15,12 @@ For this project u need:
 - 2 resistors 220oms
 - 2 resistors 10Koms
 - 1 servo
-- 1 lcd screan 
+- 1 lcd scren
 
 ------------------------------------
 
-Basically this arduino project works when u press thle left button the blue led will go on and the servo will go left and lcd screan will say that the servo is on left 
-then we have the right button when you press him the red led will turn on the servo will go right and the lcd screan will say that the servo is on right.
+Basically this arduino project works when u press thle left button the blue led will go on and the servo will go left and lcd scren will say that the servo is on left 
+then we have the right button when you press him the red led will turn on the servo will go right and the lcd scren will say that the servo is on right.
 
 -------------------------------------------------------------------
 
